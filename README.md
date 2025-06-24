@@ -2,7 +2,7 @@
 
 This repository contains two bioinformatics projects focused on distinct areas of genomics: cancer mutation profiling and soil microbiome analysis for antimicrobial resistance gene detection.
 
-## 📁 Project 1: Cancer Mutation Analysis
+##  Project 1: Cancer Mutation Analysis
 
 **Objective:**  
 Identify key mutations in a cancer dataset and classify them as either oncogenes or tumor suppressors.
@@ -19,7 +19,7 @@ Identify key mutations in a cancer dataset and classify them as either oncogenes
 
 ---
 
-## 📁 Project 2: Soil Microbiome AMR Gene Detection
+## Project 2: Soil Microbiome AMR Gene Detection
 
 **Objective:**  
 Analyze a soil microbiome sample to identify antimicrobial resistance (AMR) genes and their mechanisms.
